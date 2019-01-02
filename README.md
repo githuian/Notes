@@ -1,2 +1,2 @@
 # Notes
-# Random notes here
+Random notes here
