@@ -1,2 +1,1 @@
-# Notes
-Random notes here
+# No title
